@@ -1,5 +1,5 @@
 ---
-name: Use Story
+name: Use Story 2
 about: This Template is for Creting user Stories
 title: ''
 labels: ''
